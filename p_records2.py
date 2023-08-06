@@ -2,7 +2,7 @@ from tkinter import *
 import winsound, time, sys,pickle
 from datetime import datetime
 from win32api import GetSystemMetrics
-
+#contains intelligent set of replacements for each letter constomized entirely by me
 dict1={'1': 'rr', '2': 'ry', '3': 'ri', '4': 'ryy', '5': 'ro', '6': 'or', '7': 'yr', '8': 'yii', '9': 'ir',
        '0': 'yy', 'q': 'ii', 'w': 'idd', 'e': 'oo', 'r': 'rp', 't': 'rd', 'y': 'rf', 'u': 'ohh', 'i': 'rh', 'o': 'pr',
        'p': 'dr', 'a': 'pff', 's': 'fr', 'd': 'hr', 'f': 'pp', 'g': 'doo', 'h': 'dd', 'j': 'ff', 'k': 'hh', 'l': 'yi',
