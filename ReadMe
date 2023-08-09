@@ -1,24 +1,24 @@
 # Record Keeper - tkinter
 
-## SecureNotes App
+# SecureNotes App
 
 SecureNotes is an application that enables you to securely store and manage your personal notes on your computer. The app uses advanced encryption to ensure your data remains private and accessible only by you.
 
-## Features
+# Features
 
 - **Secure Storage**: Safely store your notes with strong encryption.
 - **Intuitive Interface**: Easily create, edit, and manage notes through a user-friendly interface.
 - **Custom Organization**: Organize notes with customizable categories and tags.
 - **Offline Access**: Access your notes even without an internet connection.
 
-## Usage
+# Usage
 
 1. Open the app.
 2. Create a new note by entering a title and content.
 3. View, edit, and delete notes as needed.
 4. Safely store sensitive information with confidence.
 
-## Contributing
+# Contributing
 
 We welcome contributions! To contribute, fork the repository, create a new branch, make changes, and submit a pull request.
 
